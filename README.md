@@ -1,6 +1,6 @@
 # Projeto [Trybewarts](https://github.com/tryber/sd-012-project-trybewarts/pull/51)
   - Módulo 1: Fundamentos do Desenvolvimento Web
-    - Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+    - Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo - Primeiro projeto em dupla
 
 # Requisitos
 - [x] Crie uma barra verde na parte superior da página
